@@ -1,0 +1,12 @@
+{
+    "Parshottambhai": ["Batukbhai", "Meghajibhai", "Velajibhai", "Premjibhai"],
+    "Jagdishbhai": ["Meet", "Kruti"],
+    "Niteenbhai": ["Het", "Heli"],
+    "Batukbhai": ["Jagdishbhai", "Niteenbhai"],
+    "Aunt": ["Cousin1", "Cousin2"],
+    "Uncle": ["Cousin1", "Cousin2"],
+    "You": [],
+    "Brother": [],
+    "Cousin1": [],
+    "Cousin2": []
+}
